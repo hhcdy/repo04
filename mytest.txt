@@ -1,5 +1,0 @@
-hello word
-123456
-one-two-three-four-five
-JavaSE
-JavaEE
